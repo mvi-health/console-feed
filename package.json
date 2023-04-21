@@ -57,9 +57,6 @@
       "**/__tests__/*.spec.(ts|tsx|js)"
     ]
   },
-  "peerDependencies": {
-    "react": "^15.x || ^16.x || ^17.x"
-  },
   "files": [
     "es",
     "lib",
